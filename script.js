@@ -13,6 +13,7 @@ function setInitial() {
     hours.textContent = '00';
     minutes.textContent = '00';
     seconds.textContent = '00';
+    pause.textContent = "Pause";
 }
 
 setInitial();
